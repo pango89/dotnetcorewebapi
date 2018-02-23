@@ -1,5 +1,5 @@
 # dotnetcorewebapi
-Web API project in .NET core
+.NET core Web API project.
 
 Step-1 : Clone the respository
 git clone https://github.com/pango89/dotnetcorewebapi.git
