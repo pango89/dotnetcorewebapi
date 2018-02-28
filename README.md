@@ -1,2 +1,4 @@
 # dotnetcorewebapi
-Web API project in .NET core
+.NET core Web API project.
+
+For Documentation, please check the wiki page.
